@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CollectionViewHeader" customModule="Style_Fix" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Instagram" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tao-bx-fs8">
+                    <rect key="frame" x="16" y="0.0" width="351" height="44"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ig" translatesAutoresizingMaskIntoConstraints="NO" id="Y0e-Hd-pFU">
+                    <rect key="frame" x="8" y="0.0" width="0.0" height="25"/>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="2Hd-Vl-Xtd"/>
+                        <constraint firstAttribute="width" id="hiH-MQ-3ah"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gzt-Mk-fUv">
+                    <rect key="frame" x="317" y="14" width="50" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="3z4-h2-YrQ"/>
+                        <constraint firstAttribute="height" constant="17" id="l7K-rs-BRs"/>
+                    </constraints>
+                    <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" image="arrow-right"/>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="Y0e-Hd-pFU" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="FSd-Hw-i4A"/>
+                <constraint firstItem="Y0e-Hd-pFU" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="R9R-tA-JO0"/>
+                <constraint firstItem="Tao-bx-fs8" firstAttribute="leading" secondItem="Y0e-Hd-pFU" secondAttribute="trailing" constant="8" id="YVx-3q-oED"/>
+                <constraint firstItem="Gzt-Mk-fUv" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="cVQ-dw-0Hc"/>
+                <constraint firstAttribute="bottom" secondItem="Tao-bx-fs8" secondAttribute="bottom" id="gdR-wr-P2k"/>
+                <constraint firstAttribute="bottom" secondItem="Y0e-Hd-pFU" secondAttribute="bottom" id="h9H-Lg-p3U"/>
+                <constraint firstAttribute="trailing" secondItem="Tao-bx-fs8" secondAttribute="trailing" constant="8" id="hYr-4X-B2m"/>
+                <constraint firstAttribute="trailing" secondItem="Gzt-Mk-fUv" secondAttribute="trailing" constant="8" id="kKV-EH-ax1"/>
+                <constraint firstItem="Tao-bx-fs8" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="nCe-H1-nu5"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="accessoryButton" destination="Gzt-Mk-fUv" id="JMx-fy-5kL"/>
+                <outlet property="imageView" destination="Y0e-Hd-pFU" id="ZyH-vS-qGu"/>
+                <outlet property="titleLabel" destination="Tao-bx-fs8" id="Wac-F2-8Yu"/>
+            </connections>
+            <point key="canvasLocation" x="46.5" y="-253"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="arrow-right" width="10" height="36"/>
+        <image name="ig" width="1600" height="1600"/>
+    </resources>
+</document>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <dict>
+    <key>displayPhoto</key>
+    <string>b01</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Johnny</string>
+    <key>gender</key>
+    <string>Male</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+  <dict>
+    <key>displayPhoto</key>
+    <string>b02</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Jacky</string>
+    <key>gender</key>
+    <string>Male</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+  <dict>
+    <key>displayPhoto</key>
+    <string>b03</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Andy</string>
+    <key>gender</key>
+    <string>Male</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+  <dict>
+    <key>displayPhoto</key>
+    <string>b04</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Danny</string>
+    <key>gender</key>
+    <string>Male</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+  <dict>
+    <key>displayPhoto</key>
+    <string>g01</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Jenny</string>
+    <key>gender</key>
+    <string>Female</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+  <dict>
+    <key>displayPhoto</key>
+    <string>g02</string>
+    <key>tag</key>
+    <string>hair</string>
+    <key>intro</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>address</key>
+    <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <key>office</key>
+    <integer>0</integer>
+    <key>service</key>
+    <string>Haricut</string>
+    <key>mobile</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Janey</string>
+    <key>gender</key>
+    <string>Female</string>
+    <key>workLocation</key>
+    <string>Central</string>
+  </dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>b01</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Johnny</string>
+		<key>gender</key>
+		<string>Male</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>b02</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Jacky</string>
+		<key>gender</key>
+		<string>Male</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>b03</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Andy</string>
+		<key>gender</key>
+		<string>Male</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>b04</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Danny</string>
+		<key>gender</key>
+		<string>Male</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>g01</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Jenny</string>
+		<key>gender</key>
+		<string>Female</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+	<dict>
+		<key>displayPhoto</key>
+		<string>g02</string>
+		<key>tag</key>
+		<string>hair</string>
+		<key>intro</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>address</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>office</key>
+		<integer>0</integer>
+		<key>service</key>
+		<string>Haricut</string>
+		<key>mobile</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Janey</string>
+		<key>gender</key>
+		<string>Female</string>
+		<key>workLocation</key>
+		<string>Central</string>
+	</dict>
+</array>
+</plist>

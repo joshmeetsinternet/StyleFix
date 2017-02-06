@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>stylist</key>
+		<string>Johnny</string>
+		<key>createdDate</key>
+		<string>Thu 08 Dec 2016, 06:40 PM</string>
+		<key>bookingDate</key>
+		<string>Thu 08 Dec 2016, 06:40 PM</string>
+		<key>services</key>
+		<string>1,2,3</string>
+		<key>alert</key>
+		<integer>0</integer>
+		<key>notes</key>
+		<string></string>
+		<key>isRescheduled</key>
+		<false/>
+		<key>status</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>stylist</key>
+		<string>Johnny</string>
+		<key>createdDate</key>
+		<string>Thu 08 Dec 2016, 06:38 PM</string>
+		<key>bookingDate</key>
+		<string>Thu 08 Dec 2016, 06:38 PM</string>
+		<key>services</key>
+		<string>1,2,3</string>
+		<key>alert</key>
+		<integer>0</integer>
+		<key>notes</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</string>
+		<key>isRescheduled</key>
+		<true/>
+		<key>status</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
